@@ -72,8 +72,7 @@ The solution provides:
 
 ---
 
-# Data Model
-
+## Power Pivot Data Model
 The dashboard is powered by a relational data model created using Power Pivot.
 
 <img width="1600" height="732" alt="datamodel" src="https://github.com/user-attachments/assets/f8f3ce36-bcd9-4aff-9411-2da490b25f55" />
@@ -147,27 +146,15 @@ Each visualization updates dynamically based on user selections.
 
 # Dashboard Screenshots
 
-## Executive Dashboard
 
-<p align="center">
-<img src="images/dashboard.png" width="900">
-</p>
 
----
 
-## Power Pivot Data Model
 
-<p align="center">
-<img src="images/data-model.png" width="700">
-</p>
 
----
 
 ## Pivot Table Analysis
 
-<p align="center">
-<img src="images/pivot-table.png" width="700">
-</p>
+<img width="1600" height="1032" alt="pivot table" src="https://github.com/user-attachments/assets/9c265b0c-7241-423e-a8e2-cfc9ef4cd809" />
 
 ---
 
