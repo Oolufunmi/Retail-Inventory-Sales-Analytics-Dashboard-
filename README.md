@@ -76,14 +76,15 @@ The solution provides:
 
 The dashboard is powered by a relational data model created using Power Pivot.
 
-<p align="center">
-<img src="images/data-model.png" width="700">
-</p>
+<img width="1600" height="732" alt="datamodel" src="https://github.com/user-attachments/assets/f8f3ce36-bcd9-4aff-9411-2da490b25f55" />
 
 ### Tables
 
 - Product Master
 - Retail Transactions
+<img width="1065" height="1059" alt="raw data 3" src="https://github.com/user-attachments/assets/263076cc-e679-4db6-9908-fa8420fa5913" />
+<img width="1277" height="1109" alt="raw data 2" src="https://github.com/user-attachments/assets/da506893-6700-4ace-b499-280952aebca4" />
+<img width="1109" height="1102" alt="raw data" src="https://github.com/user-attachments/assets/96debf0d-c636-4afe-8500-f73501031657" />
 
 ### Relationship
 
