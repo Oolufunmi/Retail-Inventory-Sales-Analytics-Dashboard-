@@ -8,8 +8,7 @@ This project demonstrates how raw retail transaction data can be transformed int
 
 # Dashboard Preview
 
-<p align="center">
-  <img src="<img width="1318" height="766" alt="dashboard" src="https://github.com/user-attachments/assets/ca70d284-e25e-4135-bb5d-d7f83f019e8a"
+<img width="1318" height="766" alt="dashboard" src="https://github.com/user-attachments/assets/fcdd9ee4-634a-49ba-938b-9c59526e9de7" />
 
 ---
 
